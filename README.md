@@ -1,6 +1,5 @@
-Simple Spring IOC with XML configuration.
+Simple Spring dependency injection with XML config.
 
-This example instantiates a single bean in different ways (using setter and constructor injection).
 ```
 User
 UserTest
